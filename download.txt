@@ -1,0 +1,5 @@
+tqdm
+colorama
+web3
+eth_account
+fake_useragent
